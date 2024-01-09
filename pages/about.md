@@ -3,7 +3,6 @@ layout: page
 title: About
 permalink: /about
 ---
+# About Me
 
-# Portfolio Jekyll Theme
-
-This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+I was born and raised in the St. Louis area and completed my Bachelor's of Science in Economics in May of 2023. Post-grad, I was accepted and enrolled into the Master's of Urban Spatial Analytics program at the Weitzman School of Design at the University of Pennsylvania. This portfolio is a collection of my projects from previous coursework, contributions during my internship at the Delaware Valley Regional Planning Commission, as well as various personal projects. 
