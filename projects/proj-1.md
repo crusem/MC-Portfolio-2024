@@ -3,7 +3,7 @@ layout: post
 title: 'Coursework'
 ---
 ## Using R
-[![Image Alt Text](projects/proj-1/dog.jpg)](https://crusem.github.io/MC-Portfolio-2024/PPAFinal.html)
+[![Image Alt Text](projects/proj-1/dog.jpg)](https://crusem.github.io/MC-Portfolio-2024/PPAFinal.html){:target="_blank"}
 
 ## Using Python
 
