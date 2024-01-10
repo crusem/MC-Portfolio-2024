@@ -7,6 +7,6 @@ plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 
-title:		   "Marissa Cruse - Portfolio"
+title:		   "Marissa Cruse"
 description: "Powered by Jekyll and GitHub Pages"
 author:      "Marissa Cruse"
