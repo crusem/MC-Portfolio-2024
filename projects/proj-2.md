@@ -1,8 +1,16 @@
 ---
 layout: post
-title: 'Project Two'
+title: ''
 ---
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed ultrices tortor nec nunc hendrerit rutrum. Nullam congue nulla eu placerat convallis. Morbi volutpat dolor nunc, nec dignissim neque condimentum nec. Nullam vel sem egestas augue tempus pulvinar in vitae neque. Ut mattis tincidunt felis, laoreet aliquet ex mollis ac. Sed sit amet nisl id enim blandit facilisis. Maecenas quis ultrices sapien, ac ullamcorper mi.
+## Project Overview & Objective
+This project was submited by Marissa Cruse and Alyssa Felix-Arreola during the 2023 Fall semester for Geospatial Data Science in Python at the Weitzman School of Design at the University of Pennsylvania. 
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-2/stretch.jpg" %}
+The objective of this project was to build a machine learning algorithm based off of environmental risk factors to predict asthma prevalance by census tract in Philadelphia.
+
+View the submission [here](https://crusem.github.io/Final-Python-MC-AFA/)
+
+## Process
+
+## Skills Demonstrated
+## Feedback/Future Recommendations
