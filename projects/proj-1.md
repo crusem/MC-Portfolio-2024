@@ -10,7 +10,7 @@ The City of Cincinnati has a dataset of heroin overdose locations. Using data ex
 
 The objective of this projec was to build a machine learning algorithm based off of risk factors that increase the likelihood of the occurence of overdose.
 
-View the submission [here](assets/img/projects/proj-1/PPA-Final-Portfolio-Version.html)
+View the submission [here](assets/img/projects/proj-1/PPA-Final-Portfolio-Version.html/)
 
 ## Process
 
