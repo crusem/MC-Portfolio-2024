@@ -38,10 +38,10 @@ The objective of this assignment was to train the best classifier and use the re
 View the submission [here.](https://crusem.github.io/assignment_sample_3/)
 
 
-## Predictive Modeling of Housing Prices in Philadelphia, PA
+## Exploring Yelp Reviews in Philadelphia Using Python
 This project was submited during the 2023 Fall semester for Geospatial Data Science in Python at the Weitzman School of Design at the University of Pennsylvania. 
 
-The objective of this assignment was to train a model to predict the log of the sales price of housing in Philadelphia, PA, perform cross-validation, and test the fairness of the model. 
+The first objective of this assignment was to analyze the correlation between restaurant reviews and income. The second objective was to conducting a sentiment analysis on resturaunt reviews.
 
 View the submission [here.](https://crusem.github.io/assignment_sample_5/)
 
