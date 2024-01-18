@@ -26,14 +26,14 @@ The objective of this assignment was to train the best classifier and use the re
 
 View the submission [here](https://crusem.github.io/assignment_sample_3/)
 
-## Predictive Modeling of Housing Prices in Philadelphia
+## Predictive Modeling of Housing Prices in Philadelphia, PA
 This project was submited during the 2023 Fall semester for Geospatial Data Science in Python at the Weitzman School of Design at the University of Pennsylvania. 
 
 The objective of this assignment was to train a model to predict the log of the sales price of housing in Philadelphia, PA, perform cross-validation, and test the fairness of the model. 
 
 View the submission [here](https://crusem.github.io/assignment_sample_4/)
 
-## Exploring evictions and code violations in Philadelphia & Comparing the NDVI in Philadelphia
+## Exploring Evictions and Code Violations & Comparing the NDVI in Philadelphia, PA
 This project was submited during the 2023 Fall semester for Geospatial Data Science in Python at the Weitzman School of Design at the University of Pennsylvania. 
 
 The objective of the first part of this assignment was to create vizualizations displaying eviction and code violation data in Philadelphia, PA. The objective of the second part of the assignment is to calculate and compare the NDVi in the suburbs and city of Philadelphia, PA. 
