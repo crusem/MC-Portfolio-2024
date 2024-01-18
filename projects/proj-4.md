@@ -12,12 +12,12 @@ The objective of this assignment was to gain familiarity using the altair, seabo
 
 View the submission [here](https://crusem.github.io/assignment_sample_1/)
 
-## Using a Geospatial Prediction Model to Predict Asthma Prevalance by Census Tract in Philadelphia, PA
+## Street Networks and Webscraping Using Python
 This project was submited by Marissa Cruse during the 2023 Fall semester for Geospatial Data Science in Python at the Weitzman School of Design at the University of Pennsylvania. 
 
-The objective of this project was to build a machine learning algorithm based off of environmental risk factors to predict asthma prevalance by census tract in Philadelphia using Python. We validated this model against the Center for Disease Control's asthma prevalance estimate.
+The objective of the first part of the assignment was to create vizualizations to display crash incidence data to a street network. The objective of the second part of the assignment was to use web scraping to extract craigslist apartment listing data and create vizualizations. 
 
-View the submission [here](https://crusem.github.io/Final-Python-MC-AFA/)
+View the submission [here](https://crusem.github.io/assignment_sample_2/)
 
 ## Targeting a Housing Subsidy
 This project was submited by Marissa Cruse and Alyssa Felix-Arreola during the 2023 Fall semester for Public Policy Analytics at the Weitzman School of Design at the University of Pennsylvania. 
@@ -31,12 +31,12 @@ This project was submited during the 2023 Fall semester for Geospatial Data Scie
 
 The objective of this assignment was to train a model to predict the log of the sales price of housing in Philadelphia, PA, perform cross-validation, and test the fairness of the model. 
 
-View the submission [here](https://crusem.github.io/assignment_sample_3/)
+View the submission [here](https://crusem.github.io/assignment_sample_4/)
 
 ## Exploring evictions and code violations in Philadelphia & Comparing the NDVI in Philadelphia
 This project was submited during the 2023 Fall semester for Geospatial Data Science in Python at the Weitzman School of Design at the University of Pennsylvania. 
 
 The objective of the first part of this assignment was to create vizualizations displaying eviction and code violation data in Philadelphia, PA. The objective of the second part of the assignment is to calculate and compare the NDVi in the suburbs and city of Philadelphia, PA. 
 
-View the submission [here](https://crusem.github.io/assignment_sample_3/)
+View the submission [here](https://crusem.github.io/assignment_sample_5/)
 
