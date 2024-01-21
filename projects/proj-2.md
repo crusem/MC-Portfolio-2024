@@ -8,4 +8,4 @@ This project was submited by Marissa Cruse and Alyssa Felix-Arreola during the 2
 
 The objective of this project was to build a machine learning algorithm based off of environmental risk factors to predict asthma prevalance by census tract in Philadelphia. We validated this model against the Center for Disease Control's asthma prevalance estimate.
 
-View the submission [here](https://crusem.github.io/Final-Python-MC-AFA/)
+View the submission [here.](https://crusem.github.io/Final-Python-MC-AFA/)
