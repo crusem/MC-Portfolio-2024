@@ -10,7 +10,7 @@ menu:
 # Projects Section
 
 projects:
-- {name: 'Explore This Project',   url: 'capstone'}
+- {name: 'Explore This Project',   url: 'proj-3'}
 - {name: 'Explore This Project',   url: 'proj-1'}
 - {name: 'Explore This Project',   url: 'proj-2'}
 - {name: 'Explore These Projects',  url: 'proj-4'}
