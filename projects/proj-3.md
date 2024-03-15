@@ -1,8 +1,11 @@
 ---
 layout: post
-title: 'Project Three'
+title: ''
 ---
 
-Donec condimentum a leo nec posuere. Vestibulum faucibus leo nec nisl varius vestibulum. Aenean vel quam semper, vestibulum augue at, rutrum ligula. Ut gravida, ex sit amet fringilla luctus, lorem quam mollis elit, et tristique leo urna non odio. Curabitur elementum viverra consequat. Vestibulum vitae dolor tristique, pellentesque metus non, suscipit nunc. Aenean id sem eu libero sodales dignissim eget quis quam. Phasellus quis lectus ac odio convallis luctus. Praesent sed ligula ipsum. Nullam ultricies nunc nec turpis porttitor elementum. Vestibulum vitae imperdiet elit, nec mattis magna. Vestibulum id neque nec turpis ullamcorper rutrum ac non ligula. Quisque nec pellentesque diam. Vestibulum at aliquam mi, vitae fringilla quam. Suspendisse potenti.
+## Capstone Project Spring 2024
+For my Master's capstone, I am developing a web application that tells users where their favorite artists are from!
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-3/clothes.jpg" %}
+The goal of this project is to investigate whether spatial clusters emerge in music streaming patterns based on the geographic origin of artists. By testing for spatial autocorrelation, we aim to identify potential clusters within the music industry's streaming data. This exploration offers an opportunity to observe how music shapes cities and communities. Furthermore, the envisioned web application, serving as the foundation of this exploration, aims to enhance users' understanding of the cultural significance embedded within music.
+
+I created this page on my portfolio to keep track of my progress in developing my capstone project. Check out my proposal and initial exploratory analysis [here.](https://crusem.github.io/PPA_Final/)
