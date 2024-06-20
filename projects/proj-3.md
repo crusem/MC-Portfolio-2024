@@ -10,7 +10,7 @@ To begin making a user's custom map, MMMap utilizes the Spotify API to fetch use
 
 MMMap is still in the developer phase, meaning I have to approve each user (up to 25 users). If interested in trying out this tool, shoot me a message with the email address attached to your Spotify account so you can give it a try!
 
-www.mmmapproject.com
+[www.mmmapproject.com](http://www.mmmapproject.com)
 
 
 
