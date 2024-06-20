@@ -3,12 +3,14 @@ layout: post
 title: ''
 ---
 
-## Capstone Project Spring 2024
-For my Master's capstone, I am developing a web application that tells users where their favorite artists are from!
+## MMMap 
+MMMap is a tool that reads every track in your Spotify library, and creates a heatmap based on the birthplace of artists who contributed to the track.
 
-The goal of this project is to investigate whether spatial clusters emerge in music streaming patterns based on the geographic origin of artists. By testing for spatial autocorrelation, we aim to identify potential clusters within the music industry's streaming data. This exploration offers an opportunity to observe how music shapes cities and communities. Furthermore, the envisioned web application, serving as the foundation of this exploration, aims to enhance users' understanding of the cultural significance embedded within music.
+To begin making a user's custom map, MMMap utilizes the Spotify API to fetch user's saved tracks. Next, for each artist in a user's library, there is a frequeny value that represents the number of times the artist is represented in the user's library. After using webscraping to extract each artist's birthplace and geocoding the provided birthplace, MMMap creates a heatmap! The MMMap database contains over 84,000 artists provided by Localify, a platform that personalizes local music recommendations by integrating Spotify playlists with tracks from local artists. Each time a new user uses MMMap, the artists they listen to are added to MMMap's database.
 
-I created this page on my portfolio to keep track of my progress in developing my capstone project. Check out my proposal presentation [here.](https://github.com/crusem/MC-Portfolio-2024/blob/4bb565f35b93755f96f7b1844530859e6dfa7f9a/assets/img/projects/proj-3/CapstoneProposalPresentation.pdf) Click [here](https://github.com/crusem/MC-Portfolio-2024/blob/48df248d16a235ceaf249900f38f7dccde80e3d1/assets/img/projects/proj-3/writeup.pdf) to view the write-up!
+MMMap is still in the developer phase, meaning I have to approve each user (up to 25 users). If interested in trying out this tool, shoot me a message with the email address attached to your Spotify account so you can give it a try!
+
+www.mmmapproject.com
 
 
 
